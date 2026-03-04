@@ -1,4 +1,5 @@
-
+public class lab1 {
+}
 public class student extends uniber {
     public static void main(String[] args) {
         // student объектісін құру
