@@ -1,7 +1,3 @@
-package lab9;
-
-public class task8 {
-}
 
 class University {
     class Student {

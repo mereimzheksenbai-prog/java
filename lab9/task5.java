@@ -1,7 +1,4 @@
-package lab9;
 
-public class task5 {
-}
 
 class Config {
     static String appName = "MyApp";

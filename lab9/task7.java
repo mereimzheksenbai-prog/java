@@ -1,7 +1,4 @@
-package lab9;
 
-public class task7 {
-}
 
 class Outer {
     class Inner {

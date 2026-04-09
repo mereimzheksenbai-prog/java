@@ -1,7 +1,4 @@
-package lab9;
 
-public class task4 {
-}
 
 class Counter {
     static int count = 0;

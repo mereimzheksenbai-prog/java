@@ -1,8 +1,3 @@
-package lab9;
-
-public class task1 {
-}
-
 class git Student {
     String name;
     int age;

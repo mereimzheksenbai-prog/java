@@ -1,7 +1,3 @@
-package lab9;
-
-public class task9 {
-}
 
 class Computer {
     class Processor {

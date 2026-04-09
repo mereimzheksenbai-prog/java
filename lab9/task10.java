@@ -1,7 +1,4 @@
-package lab9;
 
-public class task10 {
-}
 
 class Library {
     class Book {

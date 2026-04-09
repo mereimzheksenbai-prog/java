@@ -1,7 +1,3 @@
-package lab9;
-
-public class task6 {
-}
 
 class Config {
     static String appName;

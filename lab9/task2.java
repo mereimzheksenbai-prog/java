@@ -1,8 +1,3 @@
-package lab9;
-
-public class task2 {
-}
-
 class Student {
     String name;
     static String university = "ҚазҰУ";

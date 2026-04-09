@@ -1,7 +1,4 @@
-package lab9;
 
-public class task3 {
-}
 
 class MathUtils {
     static int square(int n) {
