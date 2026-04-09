@@ -1,6 +1,6 @@
 package lab10;
 
-public class tap2 {
+public class  tap2 {
 }
 public class Task2 extends JFrame {
     public Task2() {
